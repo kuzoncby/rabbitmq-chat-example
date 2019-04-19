@@ -1,0 +1,4 @@
+[[_title]]
+= Rabbitmq Chat Example
+
+Chat application via RabbitMQ
